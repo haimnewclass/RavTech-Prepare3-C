@@ -9,7 +9,7 @@ char* build_message(const char* name) {
         exit(1);
     }
 
-    sprintf(buffer, "Hello, %s!", name);   
+    sprintf_s(buffer, "Hello, %s!", name);   
     return buffer;
 }
 
@@ -19,7 +19,7 @@ void greet_user(const char* name) {
     free(msg);
 }
 
-int main() {
+int main4() {
     greet_user("Ada");            // עובד
     greet_user("Turing");         // עובד
     greet_user("Constantinople"); // ❗ עשוי לקרוס או לגרום לשגיאה שקטה

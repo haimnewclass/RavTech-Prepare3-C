@@ -41,7 +41,7 @@ void analyze_array(int* arr, int size) {
     printf("Min value: %d\n", min);
 }
 
-int main() {
+int main3() {
     int size = 6;
     int* numbers = (int*)malloc(size * sizeof(int));
     if (!numbers) {
