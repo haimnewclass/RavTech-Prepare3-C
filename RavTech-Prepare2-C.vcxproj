@@ -135,6 +135,16 @@
     <ClCompile Include="Lesson3-Debugger6.c" />
     <ClCompile Include="Lesson5-3Bugs1.c" />
     <ClCompile Include="Lesson5-1Bugs2.c" />
+    <ClCompile Include="Lesson6-Cast1.c" />
+    <ClCompile Include="Lesson6-Cast10.c" />
+    <ClCompile Include="Lesson6-Cast2.c" />
+    <ClCompile Include="Lesson6-Cast4.c" />
+    <ClCompile Include="Lesson6-Cast3.c" />
+    <ClCompile Include="Lesson6-Cast5.c" />
+    <ClCompile Include="Lesson6-Cast6.c" />
+    <ClCompile Include="Lesson6-Cast7.c" />
+    <ClCompile Include="Lesson6-Cast8.c" />
+    <ClCompile Include="Lesson6-Cast9.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
