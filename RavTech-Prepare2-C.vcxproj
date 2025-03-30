@@ -137,6 +137,8 @@
     <ClCompile Include="Lesson5-1Bugs2.c" />
     <ClCompile Include="Lesson6-Cast1.c" />
     <ClCompile Include="Lesson6-Cast10.c" />
+    <ClCompile Include="Lesson6-Cast11.c" />
+    <ClCompile Include="Lesson6-Cast12.c" />
     <ClCompile Include="Lesson6-Cast2.c" />
     <ClCompile Include="Lesson6-Cast4.c" />
     <ClCompile Include="Lesson6-Cast3.c" />
