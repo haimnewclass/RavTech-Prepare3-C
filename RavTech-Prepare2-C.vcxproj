@@ -150,6 +150,16 @@
     <ClCompile Include="Lesson6-p1.c" />
     <ClCompile Include="Lesson6-p2.c" />
     <ClCompile Include="Lesson6-p3.c" />
+    <ClCompile Include="Lesson7-3Bugs2.c" />
+    <ClCompile Include="Lesson7-3Bugs1.c" />
+    <ClCompile Include="Lesson7-3Bugs10.c" />
+    <ClCompile Include="Lesson7-3Bugs3.c" />
+    <ClCompile Include="Lesson7-3Bugs4.c" />
+    <ClCompile Include="Lesson7-3Bugs5.c" />
+    <ClCompile Include="Lesson7-3Bugs6.c" />
+    <ClCompile Include="Lesson7-3Bugs7.c" />
+    <ClCompile Include="Lesson7-3Bugs8.c" />
+    <ClCompile Include="Lesson7-3Bugs9.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lesson6-p3.h" />
